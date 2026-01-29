@@ -67,9 +67,9 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 <div align="center">
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight)](https://github.com/s3l1m26/github-readme-stats)
+<img alt="Luis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight">
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight">
 
 </div>
 
@@ -83,11 +83,20 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at Codedex Code Nights! 🎮
 
 <div align="center">
-
-| | | |
-|:-:|:-:|:-:|
-| <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" height="100" width="100"> | <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" height="100" width="100"> | <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" height="100" width="100"> |
-| **Pepillo** | **Omarcito** | **Mamagallo** |
+<div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="text-align: center;">
+        <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" height="100" width="100">
+        <p><strong>Pepillo</strong></p>
+    </div>
+    <div style="text-align: center;">
+        <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" height="100" width="100">
+        <p><strong>Omarcito</strong></p>
+    </div>
+    <div style="text-align: center;">
+        <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" height="100" width="100">
+        <p><strong>Mamagallo</strong></p>
+    </div>
+</div>
 
 </div>
 
