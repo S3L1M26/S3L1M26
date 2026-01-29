@@ -12,8 +12,6 @@
 
 ### Junior Software Developer | Tech Enthusiast | Lifelong Learner
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=s3l1m26&color=3073b7&style=for-the-badge&label=Profile+Views)
   
 </div>
