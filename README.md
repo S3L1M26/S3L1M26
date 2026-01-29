@@ -65,8 +65,8 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 <div align="center">
 
-<img alt="Luis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight" width="300"/>
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight" width="315"/>
+<img alt="Luis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight" width="400"/>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight" width="400"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight" width="300"/>
 
 </div>
@@ -80,11 +80,15 @@ These are my virtual code pets that kept me company while coding. They have evol
 
 <div align="center">
 
-<img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150"/>
-<img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150"/>
-<img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150"/>
+<img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150" style="margin: 0 20px;"/>
+<img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150" style="margin: 0 20px;"/>
+<img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150" style="margin: 0 20px;"/>
 
-**Pepillo** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Omarcito** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mamagallo**
+<br>
+
+<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Pepillo</strong></span>
+<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Omarcito</strong></span>
+<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Mamagallo</strong></span>
 
 </div>
 </div>
