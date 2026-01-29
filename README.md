@@ -80,15 +80,23 @@ These are my virtual code pets that kept me company while coding. They have evol
 
 <div align="center">
 
-<img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150" style="margin: 0 20px;"/>
-<img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150" style="margin: 0 20px;"/>
-<img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150" style="margin: 0 20px;"/>
+<div style="display: inline-block; margin: 20px; text-align: center;">
+  <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150"/>
+  <br>
+  <strong>Pepillo</strong>
+</div>
 
-<br>
+<div style="display: inline-block; margin: 20px; text-align: center;">
+  <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150"/>
+  <br>
+  <strong>Omarcito</strong>
+</div>
 
-<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Pepillo</strong></span>
-<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Omarcito</strong></span>
-<span style="display: inline-block; width: 150px; margin: 0 20px; text-align: center;"><strong>Mamagallo</strong></span>
+<div style="display: inline-block; margin: 20px; text-align: center;">
+  <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150"/>
+  <br>
+  <strong>Mamagallo</strong>
+</div>
 
 </div>
 </div>
