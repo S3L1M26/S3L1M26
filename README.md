@@ -1,12 +1,18 @@
-<div aling="center">
+<div align="center">
   
 # Welcome, space cowboy! I'm **Luis López**
+
+</div>
 
 <img alt="Sonic Running" src="https://media.tenor.com/WtDDOBNCKB8AAAAj/sonic-running.gif" heigh="100" width="100" align="left">
 
 <img alt="Totem da Capoeira" src="https://media.tenor.com/2bmE6e5ku5AAAAAj/totem-of-undying-i-was-a-jit.gif" heigh="100" width="100" align="right">
 
-### HOLAAAAA
+<div align="center">
+
+### Junior Software Developer | Tech Enthusiast | Lifelong Learner
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s3l1m26&color=3073b7&style=for-the-badge&label=Profile+Views)
   
