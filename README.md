@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact)](https://github.com/s3l1m26/github-readme-stats)
 
+<img alt="Sonic Running" src="https://media.tenor.com/WtDDOBNCKB8AAAAj/sonic-running.gif" heigh="100" width="100">
+
+<img alt="Totem da Capoeira" src="https://media.tenor.com/2bmE6e5ku5AAAAAj/totem-of-undying-i-was-a-jit.gif" heigh="100" width="100">
 
 <!--
 **S3L1M26/S3L1M26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
