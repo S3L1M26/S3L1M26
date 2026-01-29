@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-l%C3%B3pez-8ba07925a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://s3l1m26.github.io/Portafolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.narvaezluis26@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=s3l1m26&color=3073b7&style=for-the-badge&label=Profile+Views)
   
 </div>
