@@ -27,7 +27,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 **Currently:** Seeking for a Junior Software Developer role that allows me to grow and contribute to exciting projects.
 
-### Stack & Skills
+### Tech Stack & Tools
 
 #### Frontend
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
@@ -53,6 +53,10 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 
+#### Learning & Improving
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+
 <div>
 
 ---
@@ -61,11 +65,13 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight)](https://github.com/s3l1m26/github-readme-stats)
-    
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight)
+<div align="center">
 
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight)](https://github.com/s3l1m26/github-readme-stats)
+
+</div>
 
 </div>
 
@@ -85,18 +91,10 @@ These are my virtual code pets that kept me company while coding. They have evol
 
 </div>
 
+---
 
-<!--
-**S3L1M26/S3L1M26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
