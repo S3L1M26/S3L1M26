@@ -78,13 +78,17 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 ### Fun Section: My Code Pets!
 These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at Codedex Code Nights! 🎮
 
+<div align="center">
 
-| | | |
-|---|---|---|
-| ![Pepillo](https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif) | ![Omarcito](https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif) | ![Mamagallo](https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif) |
-| **Pepillo** | **Omarcito** | **Mamagallo** |
+<img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150"/>
+<img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150"/>
+<img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150"/>
+
+**Pepillo** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Omarcito** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mamagallo**
 
 </div>
+</div>
+
 ---
 
 <div>
