@@ -4,9 +4,9 @@
 
 </div>
 
-<img alt="Sonic Running" src="https://media.tenor.com/WtDDOBNCKB8AAAAj/sonic-running.gif" heigh="100" width="100" align="left">
+<img alt="Sonic Running" src="https://media.tenor.com/WtDDOBNCKB8AAAAj/sonic-running.gif" height="100" width="100" align="left">
 
-<img alt="Totem da Capoeira" src="https://media.tenor.com/2bmE6e5ku5AAAAAj/totem-of-undying-i-was-a-jit.gif" heigh="100" width="100" align="right">
+<img alt="Totem da Capoeira" src="https://media.tenor.com/2bmE6e5ku5AAAAAj/totem-of-undying-i-was-a-jit.gif" height="100" width="100" align="right">
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 <div>
 
 ### About Me
-I'm a passionate learner and aspiring software developer with a problem oriented mindset. I love exploring new technologies and cotinuously improving my skills. During my career journey, I've worked on various projects that have honed my abilities in coding, debugging, and collaborating with teams. I'm excited to contribute to innovative projects and make a positive impact in the tech world.
+I'm a passionate learner and aspiring software developer with a problem oriented mindset. I love exploring new technologies and continuously improving my skills. During my career journey, I've worked on various projects that have honed my abilities in coding, debugging, and collaborating with teams. I'm excited to contribute to innovative projects and make a positive impact in the tech world.
 
 **Currently:** Seeking for a Junior Software Developer role that allows me to grow and contribute to exciting projects.
 
@@ -84,7 +84,7 @@ These are my virtual code pets that kept me company while coding. They have evol
 | ![Pepillo](https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif) | ![Omarcito](https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif) | ![Mamagallo](https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif) |
 | **Pepillo** | **Omarcito** | **Mamagallo** |
 
-</divs>
+</div>
 ---
 
 <div>
