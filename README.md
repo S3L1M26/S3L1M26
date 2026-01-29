@@ -79,25 +79,19 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at Codedex Code Nights! 🎮
 
 <div align="center">
-
-<div style="display: inline-block; margin: 20px; text-align: center;">
-  <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150"/>
-  <br>
-  <strong>Pepillo</strong>
-</div>
-
-<div style="display: inline-block; margin: 20px; text-align: center;">
-  <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150"/>
-  <br>
-  <strong>Omarcito</strong>
-</div>
-
-<div style="display: inline-block; margin: 20px; text-align: center;">
-  <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150"/>
-  <br>
-  <strong>Mamagallo</strong>
-</div>
-
+  <div style="display: inline-block; margin: 20px; text-align: center;">
+    <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150"/>
+    <br>
+    <strong>Pepillo</strong>
+  </div><div style="display: inline-block; margin: 20px; text-align: center;">
+    <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150"/>
+    <br>
+    <strong>Omarcito</strong>
+  </div><div style="display: inline-block; margin: 20px; text-align: center;">
+    <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150"/>
+    <br>
+    <strong>Mamagallo</strong>
+  </div>
 </div>
 </div>
 
