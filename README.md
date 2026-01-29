@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact)](https://github.com/s3l1m26/github-readme-stats)
+
+
 <!--
 **S3L1M26/S3L1M26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
