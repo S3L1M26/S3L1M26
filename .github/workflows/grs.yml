@@ -20,17 +20,17 @@ jobs:
 
       - name: Download stats card
         run: |
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyo_night&border_color=58a6ff&title_color=58a6ff"
+          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true"
 
       - name: Download top languages card
         run: |
           sleep 5
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&theme=tokyo_night&border_color=58a6ff&title_color=58a6ff"
+          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact"
 
       - name: Download pin card
         run: |
           sleep 5
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/pin-readme-tools-github-readme-stats.svg "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats&theme=tokyo_night&border_color=58a6ff&title_color=58a6ff"
+          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/pin-readme-tools-github-readme-stats.svg "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats"
 
       - name: Commit cards
         run: |
