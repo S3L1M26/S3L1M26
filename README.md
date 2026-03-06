@@ -68,7 +68,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 <img alt="Luis's GitHub stats" src="./profile/stats.svg" width="400"/>
 <img alt="Top Languages" src="./profile/top-langs.svg" width="300"/>
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight" width="400"/>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26" width="400"/>
 
 </div>
 

@@ -32,15 +32,11 @@ jobs:
           sleep 5
           curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/pin-readme-tools-github-readme-stats.svg "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats&theme=tokyo_night&border_color=58a6ff&title_color=58a6ff"
 
-      - name: Download streak card
-        run: |
-          sleep 5
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/streak.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight"
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f profile/streak.svg
           git add -A profile
           git diff --cached --quiet && exit 0
           git commit -m "Update README cards"
