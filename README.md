@@ -64,30 +64,28 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img alt="Luis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s3l1m26&show_icons=true&theme=tokyonight" width="400"/>
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26&theme=tokyonight" width="400"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3l1m26&layout=compact&theme=tokyonight" width="300"/>
 
-</div>
-
+</div> -->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 <div>
 
 ### Fun Section: My Code Pets!
-These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at <a href="https://www.codedex.io/@sonicdash262877">Codédex</a> Code Nights! 🎮
+These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at Codedex Code Nights! 🎮
 
-<!-- <p align="center">
+<p align="center">
   <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150" hspace="20"/>
   <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150" hspace="20"/>
   <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150" hspace="20"/>
-</p> -->
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+</p>
 
 <p align="center">
   <strong>Pepillo</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Omarcito</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mamagallo</strong>
@@ -97,3 +95,9 @@ These are my virtual code pets that kept me company while coding. They have evol
 </div>
 
 ---
+
+<div>
+
+
+
+</div>
