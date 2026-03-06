@@ -57,6 +57,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 #### Learning & Improving
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 
 <div>
 
@@ -71,7 +72,20 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26" width="400"/>
 
 </div>
+---
+<div>
 
+#### Courses and Certifications
+
+[![The Origins I: HTML](https://img.shields.io/badge/The%20Origins%20I:%20HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://www.credential.net/5b284c6e-34af-4262-abd8-cacb71c59957)
+[![The Origins II: CSS](https://img.shields.io/badge/The%20Origins%20II:%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.codedex.io/certificates/51aa4c68-7323-4558-ab83-698c09c9a20b)
+[![The Origins III: JavaScript](https://img.shields.io/badge/The%20Origins%20III:%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.credential.net/0916c914-3cd5-4070-9eef-5f3348da8c03#gs.gbl995)
+[![The Legend Of Python](https://img.shields.io/badge/The%20Legend%20Of%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credential.net/1cf17ca3-aeaa-4382-9009-c967e885262b)
+[![Framework Valley: React](https://img.shields.io/badge/Framework%20Valley:%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.credential.net/1ad1bf6b-71e2-497a-92fe-01c4c913a23b#gs.isa3c3#acc.1QdUPAug)
+[![Learn Node.js](https://img.shields.io/badge/Learn%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
+[![Learn Express.js](https://img.shields.io/badge/Learn%20Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
+[![Learn TypeScript](https://img.shields.io/badge/Learn%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
+</div>
 ---
 <div>
 
