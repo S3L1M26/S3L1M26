@@ -84,9 +84,9 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 [![The Origins III: JavaScript](https://img.shields.io/badge/The%20Origins%20III:%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.credential.net/0916c914-3cd5-4070-9eef-5f3348da8c03#gs.gbl995)
 [![The Legend Of Python](https://img.shields.io/badge/The%20Legend%20Of%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credential.net/1cf17ca3-aeaa-4382-9009-c967e885262b)
 [![Framework Valley: React](https://img.shields.io/badge/Framework%20Valley:%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.credential.net/1ad1bf6b-71e2-497a-92fe-01c4c913a23b#gs.isa3c3#acc.1QdUPAug)
-[![Learn Node.js](https://img.shields.io/badge/Learn%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
-[![Learn Express.js](https://img.shields.io/badge/Learn%20Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
-[![Learn TypeScript](https://img.shields.io/badge/Learn%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
+[![Learn Node.js](https://img.shields.io/badge/Learn%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/240305d50b925c17868f1ac7a21a3261)
+[![Learn Express.js](https://img.shields.io/badge/Learn%20Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/85396dd6e2e850ab34e904243aa464c6)
+[![Learn TypeScript](https://img.shields.io/badge/Learn%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/56fb1e71303e37b643bb1905f31c8a09)
 </div>
 
 ---
