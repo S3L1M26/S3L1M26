@@ -18,19 +18,28 @@ jobs:
       - name: Ensure profile directory exists
         run: mkdir -p profile
 
-      - name: Download stats card
+      - name: Download cards
+        shell: bash
         run: |
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true"
+          download_keep_old() {
+            local url="$1"
+            local out="$2"
+            local tmp="${out}.tmp"
 
-      - name: Download top languages card
-        run: |
-          sleep 5
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact"
+            if curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o "$tmp" "$url"; then
+              mv "$tmp" "$out"
+              echo "Updated $out"
+            else
+              rm -f "$tmp"
+              echo "Download failed for $out, keeping existing file"
+            fi
+          }
 
-      - name: Download pin card
-        run: |
+          download_keep_old "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true" "profile/stats.svg"
           sleep 5
-          curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o profile/pin-readme-tools-github-readme-stats.svg "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats"
+          download_keep_old "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact" "profile/top-langs.svg"
+          sleep 5
+          download_keep_old "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats" "profile/pin-readme-tools-github-readme-stats.svg"
 
       - name: Commit cards
         run: |
