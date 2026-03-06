@@ -72,7 +72,9 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s3l1m26" width="400"/>
 
 </div>
+
 ---
+
 <div>
 
 #### Courses and Certifications
@@ -86,7 +88,9 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 [![Learn Express.js](https://img.shields.io/badge/Learn%20Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
 [![Learn TypeScript](https://img.shields.io/badge/Learn%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26)
 </div>
+
 ---
+
 <div>
 
 ### Fun Section: My Code Pets!
