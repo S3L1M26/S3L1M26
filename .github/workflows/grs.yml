@@ -35,13 +35,6 @@ jobs:
             curl -f -o profile/pin-readme-tools-github-readme-stats.svg "https://github-readme-stats.vercel.app/api/pin?username=readme-tools&repo=github-readme-stats&theme=tokyo_night" && break || sleep 10
           done
 
-      - name: Download streak card
-        run: |
-          sleep 5
-          for i in {1..5}; do
-            curl -f -o profile/streak.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight" && break || sleep 10
-          done
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
