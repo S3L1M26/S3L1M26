@@ -77,7 +77,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 <div>
 
 ### Fun Section: My Code Pets!
-These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at Codedex Code Nights! 🎮
+These are my virtual code pets that kept me company while coding. They have evolved as I completed coding challenges and projects at <a href="https://www.codedex.io/@sonicdash262877">Codédex</a> Code Nights! 🎮
 
 <!-- <p align="center">
   <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150" hspace="20"/>
@@ -97,9 +97,3 @@ These are my virtual code pets that kept me company while coding. They have evol
 </div>
 
 ---
-
-<div>
-
-
-
-</div>
