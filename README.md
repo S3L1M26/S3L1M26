@@ -66,12 +66,12 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 ### GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=S3L1M26&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="Arturo's GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3L1M26&hide_border=true&theme=tokyonight&border_radius=10" alt="Arturo's GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3L1M26&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" alt="Top Languages" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
