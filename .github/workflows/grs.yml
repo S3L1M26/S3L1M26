@@ -37,11 +37,11 @@ jobs:
             fi
           }
 
-          download_keep_old "${GRS_BASE_URL}/api?username=${{ github.repository_owner }}&show_icons=true" "profile/stats.svg"
+          download_keep_old "${GRS_BASE_URL}/api?username=${{ github.repository_owner }}&show_icons=true&token=${{ secrets.TOKEN }}" "profile/stats.svg"
           sleep 5
-          download_keep_old "${GRS_BASE_URL}/api/top-langs?username=${{ github.repository_owner }}&layout=compact" "profile/top-langs.svg"
+          download_keep_old "${GRS_BASE_URL}/api/top-langs?username=${{ github.repository_owner }}&layout=compact&token=${{ secrets.TOKEN }}" "profile/top-langs.svg"
           sleep 5
-          download_keep_old "${GRS_BASE_URL}/api/pin?username=readme-tools&repo=github-readme-stats" "profile/pin-readme-tools-github-readme-stats.svg"
+          download_keep_old "${GRS_BASE_URL}/api/pin?username=readme-tools&repo=github-readme-stats&token=${{ secrets.TOKEN }}" "profile/pin-readme-tools-github-readme-stats.svg"
 
       - name: Commit cards
         run: |
