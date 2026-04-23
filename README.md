@@ -67,11 +67,11 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=S3L1M26&show_icons=true&hide_border=true&title_color=FFB6C1&icon_color=90C695&text_color=4A7C59&bg_color=FFFFFF&border_radius=10" alt="Arturo's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=S3L1M26&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="Arturo's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S3L1M26&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakNum=4A7C59&sideNums=FFB6C1&sideLabels=4A7C59&dates=4A7C59&stroke=90C695&background=FFFFFF&border_radius=10" alt="Arturo's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S3L1M26&hide_border=true&theme=tokyonight&border_radius=10" alt="Arturo's GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3L1M26&layout=compact&hide_border=true&title_color=FFB6C1&text_color=4A7C59&bg_color=FFFFFF&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3L1M26&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" alt="Top Languages" />
 
 </div>
 
