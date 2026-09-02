@@ -25,7 +25,8 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10
           path: profile/stats.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -33,7 +34,8 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&border_radius=10
           path: profile/top-langs.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v2
@@ -41,7 +43,8 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats&hide_border=true&theme=tokyonight&border_radius=10
           path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
