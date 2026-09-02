@@ -2,14 +2,12 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GRS_BASE_URL: https://github-readme-stats-sigma-five.vercel.app
 
     permissions:
       contents: write
@@ -20,35 +18,40 @@ jobs:
       - name: Ensure profile directory exists
         run: mkdir -p profile
 
-      - name: Download cards
-        shell: bash
-        run: |
-          download_keep_old() {
-            local url="$1"
-            local out="$2"
-            local tmp="${out}.tmp"
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10
+          path: profile/stats.svg
+          token: ${{ secrets.TOKEN }}
 
-            if curl -fL --retry 5 --retry-delay 10 --retry-all-errors -o "$tmp" "$url"; then
-              mv "$tmp" "$out"
-              echo "Updated $out"
-            else
-              rm -f "$tmp"
-              echo "Download failed for $out, keeping existing file"
-            fi
-          }
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&border_radius=10
+          path: profile/top-langs.svg
+          token: ${{ secrets.TOKEN }}
 
-          download_keep_old "${GRS_BASE_URL}/api?username=${{ github.repository_owner }}&show_icons=true&token=${{ secrets.TOKEN }}&hide_border=true&theme=tokyonight&border_radius=10" "profile/stats.svg"
-          sleep 5
-          download_keep_old "${GRS_BASE_URL}/api/top-langs?username=${{ github.repository_owner }}&layout=compact&token=${{ secrets.TOKEN }}&hide_border=true&theme=tokyonight&border_radius=10" "profile/top-langs.svg"
-          sleep 5
-          download_keep_old "${GRS_BASE_URL}/api/pin?username=readme-tools&repo=github-readme-stats&token=${{ secrets.TOKEN }}&hide_border=true&theme=tokyonight&border_radius=10" "profile/pin-readme-tools-github-readme-stats.svg"
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=readme-tools&repo=github-readme-stats&hide_border=true&theme=tokyonight&border_radius=10
+          path: profile/pin-readme-tools-github-readme-stats.svg
+          token: ${{ secrets.TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           rm -f profile/streak.svg
+
           git add -A profile
+
           git diff --cached --quiet && exit 0
+
           git commit -m "Update README cards"
           git push
