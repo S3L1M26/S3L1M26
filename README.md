@@ -13,7 +13,7 @@
 ### Junior Software Developer | Tech Enthusiast | Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-l%C3%B3pez-8ba07925a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://s3l1m26.github.io/Portafolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://s3l1m26.github.io/portfolio-v2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.narvaezluis26@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=s3l1m26&color=3073b7&style=for-the-badge&label=Profile+Views)
   
@@ -58,6 +58,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 
 <div>
 
@@ -89,6 +90,7 @@ I'm a passionate learner and aspiring software developer with a problem oriented
 [![Learn Node.js](https://img.shields.io/badge/Learn%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/240305d50b925c17868f1ac7a21a3261)
 [![Learn Express.js](https://img.shields.io/badge/Learn%20Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/85396dd6e2e850ab34e904243aa464c6)
 [![Learn TypeScript](https://img.shields.io/badge/Learn%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/56fb1e71303e37b643bb1905f31c8a09)
+[![Learn Next.js](https://img.shields.io/badge/Learn%20Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://www.codecademy.com/profiles/S3L1M26/certificates/6567723e030e4c0089836b44fa56495c)
 </div>
 
 ---
